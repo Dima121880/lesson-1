@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+ul{
+	list-style: none;
+	color: #707070;
+	border: #707070;
+}
+
+img{
+	max-width: 100%;
+}
+
+
+li{
+	margin-bottom:20px;
+}
+
+section{
+	top: 207px;
+	left: 140px;
+	width: 1640px;
+	height: 613px;
+}
