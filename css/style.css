@@ -30,3 +30,49 @@ section{
 	width: 1640px;
 	height: 613px;
 }
+.statias{
+
+	width: 512px;
+	height: 53px;
+	margin-top: 138px;
+	color: #707070;
+	border: #707070;
+
+}
+article img{
+	width: 483px;
+	height: 282px;
+/*	border: 0.01px solid #707070;*/
+	opacity: 100%;
+	margin-top: 70px;
+}
+article h4{
+	color: #707070;
+	border: #707070;
+	margin-top:20px ;
+	margin-bottom: 33px;
+}
+
+.team-1{
+	border:1px solid #707070;
+}
+
+article img{
+	width: 483px;
+	height: 282px;
+/*	border: 0.01px solid #707070;*/
+	opacity: 100%;
+	margin-top: 70px;
+}
+
+div{
+	border: 1px solid #707070;
+}
+
+p{
+	color: #707070;
+}
+
+article{
+	border: 1px solid #707070;
+}
