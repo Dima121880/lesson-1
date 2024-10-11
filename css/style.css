@@ -1,6 +1,6 @@
 *{
 	margin: 0;
-	padding: 0;
+/*	padding: 0;*/
 	box-sizing: border-box;
 }
 
@@ -43,7 +43,6 @@ section{
 article img{
 	width: 483px;
 	height: 282px;
-/*	border: 0.01px solid #707070;*/
 	opacity: 100%;
 	margin-top: 70px;
 }
@@ -61,7 +60,6 @@ article h4{
 article img{
 	width: 483px;
 	height: 282px;
-/*	border: 0.01px solid #707070;*/
 	opacity: 100%;
 	margin-top: 70px;
 }
